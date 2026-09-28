@@ -2,6 +2,7 @@
 
 A segmentation-driven churn analysis of **10,000 retail banking customers** across France, Germany, and Spain — built as a research study for a (simulated) European Central Bank stakeholder briefing, delivered as an interactive Streamlit dashboard, a full academic research paper, and an executive summary.
 
+Dashboard Link: https://europeanbankanalysis-bbtsuhxxmrju7sfmyk44a6.streamlit.app/
 ---
 
 ## 📌 Project Overview
